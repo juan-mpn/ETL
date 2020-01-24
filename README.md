@@ -7,7 +7,7 @@ SQL output with Function module that will read CSV file: **wikipedia.movies.json
   PostgreSQL Output files: **movies, ratings** 
   
 # Objectives:
-- Create an automated ETL pipeline.
-- Extract data from multiple sources.
-- Clean and transform the data automatically using Pandas and regular expressions.
-- Load new data into PostgreSQL.
+##- Create an automated ETL pipeline.
+##- Extract data from multiple sources.
+##- Clean and transform the data automatically using Pandas and regular expressions.
+##- Load new data into PostgreSQL.
