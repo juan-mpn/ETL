@@ -1,1 +1,1 @@
-db_password = '903miradas'
+db_password = 'test9jg'
